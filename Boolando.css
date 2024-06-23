@@ -1,0 +1,29 @@
+/* Regole generali da mettere sempre */
+html {
+    font-family: "Brygada 1918", serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+/* Layout */
+
+.conteiner{
+    max-width: 1024px;
+    margin: 0 auto;
+} 
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
