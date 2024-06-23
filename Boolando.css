@@ -27,3 +27,24 @@ img {
     display: flex;
     flex-wrap: wrap;
 }
+
+/* Header */
+
+.page-header {
+    background-color:#ff6900;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    align-items: center;
+}
+
+img {
+    height: 40px;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
