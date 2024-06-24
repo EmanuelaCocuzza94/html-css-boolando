@@ -105,7 +105,25 @@ strong {
     border-right: solid 2px #dddddd;
     border-bottom: solid 2px #dddddd;
 }
+
+.page-footer {
+    background-color: black;
+    height: 80px;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.container-footer-1{
+    color: white;
+    font-size: 13px;
+}
  
+.container-footer-2{
+    color: white;
+    font-size: 13px;
+}
 
 
 
